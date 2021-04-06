@@ -101,7 +101,10 @@ FFmpeg
 
 1. Create an account and get a free API Key at [Mapbox](https://www.mapbox.com)
 2. Replace  ```ENTER TOKEN``` with your api key, lines 54 & 60
-
+3. Make folders 
+```sh
+mkdir composite_images && mkdir depth && mkdir elevation_images && mkdir satellite_images
+  ```
 
 <!-- USAGE EXAMPLES -->
 ## Usage
